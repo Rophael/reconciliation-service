@@ -1,0 +1,13 @@
+{
+    "name": "transaction-reconciliation-service",
+    "version": "1.0.0",
+    "description": "Service to reconcile transactions between external and internal systems",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "reconcile": "node src/index.js"
+    },
+    "dependencies": {
+        "csv-parser": "^3.0.0"
+    }
+}
