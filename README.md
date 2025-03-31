@@ -20,7 +20,7 @@ A robust service designed to reconcile transactions between external payment pro
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <(https://github.com/Rophael/reconciliation-service)>
 cd reconciliation-service
 ```
 
